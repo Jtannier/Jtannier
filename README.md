@@ -1,4 +1,4 @@
-### Salut, moi c'est Joseph T 👋
+### Bienvenue / Welcome !
 
 Étudiant à l'**École 42 Le Havre**, je combine la rigueur algorithmique du cursus (Common Core, programmation système) avec un fort attrait pour l'écosystème **Python** et l'**intelligence artificielle**.
 
